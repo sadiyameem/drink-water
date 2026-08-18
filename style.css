@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: #3494e4;
+    background-color: #1e90ff;
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
@@ -23,8 +23,8 @@ h3 {
 
 .cup {
     background-color: white;
-    border: 2px solid #144fc6;
-    color: #144fc6;
+    border: 2px solid #0000cd;
+    color: #0000cd;
     border-radius: 0 0 20px 20px;
     height: 330px;
     width: 150px;
@@ -47,7 +47,7 @@ h3 {
 }
 
 .full {
-    background-color: #6ab3f8;
+    background-color: #1e90ff;
 }
 
 .cups {
@@ -73,7 +73,7 @@ h3 {
 }
 
 .percentage {
-    background-color: #6ab3f8;
+    background-color: #1e90ff;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -88,7 +88,7 @@ h3 {
 }
 
 #container {
-    background-color: #144fc6;
+    background-color: #0000cd;
     border: 5px solid white;
     height: 275px;
     width: 750px;
@@ -101,7 +101,7 @@ h3 {
     height: 50px;
     width: 250px;
     font-size: 20px;
-    background-color: #6ab3f8;
+    background-color: #1e90ff;
 }
 
 #output {
