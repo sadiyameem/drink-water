@@ -1,7 +1,7 @@
 # Drink Up
 
 # Description
-- This project will help a user track there water intake. Users can select the amount they drank in ml and work towards 2 liters.
+- This project will help a user track there water intake. Users can select the amount they drank in mL and work towards drinking 2 liters.
 
 # Features
 - 2 liter goal
