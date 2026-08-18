@@ -90,8 +90,8 @@ h3 {
 #container {
     background-color: #0000cd;
     border: 5px solid white;
-    height: 275px;
-    width: 750px;
+    min-height: 100px;
+    min-width: 100px;
     margin: 0 auto;
     text-align: center;
 }
@@ -99,13 +99,12 @@ h3 {
 #btn {
     margin: 50px auto;
     height: 50px;
-    width: 250px;
-    font-size: 20px;
+    width: 50px;
+    font-size: 10px;
     background-color: #1e90ff;
 }
 
 #output {
-    margin: 25px auto;
-    font-size: 25px;
+    font-size: 10px;
     color: white;
 }
